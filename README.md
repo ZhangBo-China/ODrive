@@ -23,3 +23,6 @@ Please refer to the [Developer Guide](https://docs.odriverobotics.com/developer-
  * [User Guide](https://docs.odriverobotics.com/)
  * [Forum](https://discourse.odriverobotics.com/)
  * [Chat](https://discourse.odriverobotics.com/t/come-chat-with-us/281)
+
+### my_inf
+forked from odriverobotics/ODrive by GCSP
