@@ -24,5 +24,5 @@ Please refer to the [Developer Guide](https://docs.odriverobotics.com/developer-
  * [Forum](https://discourse.odriverobotics.com/)
  * [Chat](https://discourse.odriverobotics.com/t/come-chat-with-us/281)
 
-### my_inf
+### GCSP_test
 forked from odriverobotics/ODrive by GCSP
